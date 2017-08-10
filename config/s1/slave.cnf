@@ -1,0 +1,5 @@
+[mysqld]
+log-bin=s1-bin
+sync_binlog=1
+server-id=1
+lower_case_table_names=1
